@@ -1,0 +1,10 @@
+C:\Users\NIKOL\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\NIKOL\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\NIKOL\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\NIKOL\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\NIKOL\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\NIKOL\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\NIKOL\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\NIKOL\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\NIKOL\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\NIKOL\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Calculator.resources
